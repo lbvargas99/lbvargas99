@@ -1,68 +1,37 @@
-# 👋 Olá, eu sou o Leonardo Borges!
+# Leonardo Borges
 
-👨‍💻 Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais.  
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade do Vale dos Sinos (Unisinos).  
-💼 Atualmente atuando como Desenvolvedor Full Stack com foco em aplicações web e APIs escaláveis.
+**Software Engineer · Full Stack** — React, Angular, Node.js/NestJS, C#/.NET
+Rio Grande do Sul, Brazil · Open to Software Engineer / Senior Software Engineer roles
 
----
-
-## 🚀 Sobre mim
-
-Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web robustas, tanto no front-end quanto no back-end. Ao longo da minha trajetória, participei da criação de sistemas e APIs RESTful usando Angular, C# (.NET) e Node.js (NestJS), sempre buscando escrever código limpo, reutilizável e alinhado a boas práticas como SOLID e Clean Architecture.
-
-Tenho familiaridade com versionamento, integração com APIs de terceiros, autenticação, consumo eficiente de banco de dados relacional e não relacional, além de experiência com times ágeis e fluxos de entrega contínua.
-
-Não busco apenas “fazer funcionar”, mas sim entregar soluções bem estruturadas, com foco em performance, manutenibilidade e experiência do usuário. Estou sempre estudando novas ferramentas e padrões para melhorar meu trabalho no dia a dia e contribuir de forma sólida com os projetos que faço parte.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbvargas99/)
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+I build B2B and fintech platforms end to end: backend architecture, data integrations and the web apps on top of them. Currently a Software Engineer with technical lead responsibilities at a credit fund (FIDC), where I work on credit decisioning, AI-assisted analysis and data pipelines.
 
-**Linguagens & Frameworks**
+### Selected impact
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- **AI-assisted credit decisioning** — built a decision engine that integrates external credit data providers and uses LLMs to produce verdicts and analytical assessments. Credit analysis went from **1–2 hours per case to seconds** (~2 min for a batch of 30).
+- **ERP ↔ platform sync** — redesigned the synchronization strategy between the ERP and the internal database: **30 min → 1 min (−96%)**. SQL Server, MySQL, Python.
+- **Backend migration** — led the move from Express.js to **NestJS** with a modular architecture, plus a new React app built on a shared design system.
+- **ERP/CRM SaaS (Holdprint)** — financial reports (cash flow, P&L, business health), product usage tracking and MongoDB performance work (aggregation pipelines, data modeling).
 
-**Front-end**
+### Stack
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![VueJS](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| | |
+|---|---|
+| **Backend** | Node.js, NestJS, Express, C#/.NET, Python |
+| **Frontend** | React, Angular, TypeScript, Tailwind CSS |
+| **Data** | SQL Server, PostgreSQL, MySQL, MongoDB, Redis |
+| **Practices** | REST APIs, system design, Clean Architecture, SOLID, automated testing (xUnit, Cypress), Scrum/Kanban |
+| **AI** | LLM integration, prompt engineering, AI-assisted development (Claude Code, Codex) |
 
-**Back-end**
+### Education
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-**Banco de Dados**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- MBA, AI-Driven Software Engineering — Full Cycle *(in progress)*
+- MBA, Software Engineering & Architecture — Universidade Católica de Pelotas *(in progress)*
+- Systems Analysis and Development — Unisinos
 
 ---
 
-## 📈 Em busca de...
-
-- Trabalhar com times de alta performance;
-- Aprofundar conhecimentos em arquitetura de software;
-- Compartilhar conhecimento com a comunidade tech.
-
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lbvargas99)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lvborges_)
-
----
+<sub>Most of my work lives in private company repositories. Public repos here are studies and side projects.</sub>
